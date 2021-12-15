@@ -1,2 +1,0 @@
-# IndiProject
-My Individual Project
